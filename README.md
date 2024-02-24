@@ -21,3 +21,5 @@ python "/home/gitpod/.config/inkscape/extensions/SimpInkScr/simpinkscr/simple_in
 
 https://inkscape.gitlab.io/inkscape/doxygen-extensions/classinkex_1_1elements_1_1__polygons_1_1PathElementBase.html#a548fd3b2e9e3b247a4d67c037a38af86
 https://gitlab.com/inkscape/extensions/-/blob/master/inkex/elements/_polygons.py?ref_type=heads
+
+Edit
