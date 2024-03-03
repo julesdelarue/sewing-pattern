@@ -4,3 +4,8 @@ image:
 ports:
     - port: 3000
       onOpen: ignore
+
+tasks:
+    - name: Prepare inkscape
+      init: sudo apt-get install inkscape
+      command: inkscape -v
