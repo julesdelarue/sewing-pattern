@@ -7,5 +7,4 @@ ports:
 
 tasks:
     - name: Prepare inkscape
-      init: sudo apt-get install inkscape
-      command: inkscape -v
+      init: ./prepare_inkscape.sh
