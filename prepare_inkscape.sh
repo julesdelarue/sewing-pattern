@@ -8,7 +8,7 @@ cd $HOME/.config/inkscape/extensions/
 git clone https://github.com/spakin/SimpInkScr.git 
 
 #Pour inkex
-sudo apt install libgirepository1.0-dev 
+sudo apt install -y libgirepository1.0-dev 
 
 pip install Pillow lxml inkex
 export PYTHONPATH="/usr/share/inkscape/extensions:$PYTHONPATH"
